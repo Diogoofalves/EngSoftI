@@ -7,5 +7,4 @@ ESCOLA POLITÉCNICA Model</h1>
 ##  Introdução
 
 ### Visão Geral:
-Este caso de uso serve para auxiliar no desenvolvimento de um aplicativo para encomenda
-e entrega de medicamentos, acredito que exista uma demanda na disponibilização de 
+Este caso de uso serve para auxiliar na entrega de medicamentos por meio de um aplicativo de encomenda. Podendo ser útil por várias razões, essa prática tem ganhado destaque, especialmente em situações como pandemias e para melhorar a acessibilidade aos serviços de saúde. 
